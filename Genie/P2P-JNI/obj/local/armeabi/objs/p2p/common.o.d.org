@@ -1,0 +1,326 @@
+D:/workspace/android/p2p/obj/local/armeabi/objs/p2p/common.o: \
+ D:/workspace/android/p2p/jni/common.cpp \
+ D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring \
+ D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/cerrno \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/unistd.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/types.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/stdint.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/_types.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/_types.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/posix_types.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/stddef.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/compiler.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/posix_types.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/types.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/types.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/kernel.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/select.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/time.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/time.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/signal.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/limits.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/limits.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/limits.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/internal_types.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/limits.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/syslimits.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/page.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/signal.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/siginfo.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/sysconf.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/capability.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/pathconf.h \
+ D:/workspace/android/p2p/jni/common.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/uio.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/uio.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/pthread.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/time.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sched.h \
+ D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdlib \
+ D:/workspace/android/p2p/jni/udt.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/socket.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/socket.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/socket.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/sockios.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/sockios.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/netinet/in.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/endian.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/endian.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/endian.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/in.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/byteorder.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/byteorder/little_endian.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/byteorder/swab.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/byteorder/generic.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/in6.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/ipv6.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/netinet/in6.h \
+ D:/workspace/android/p2p/jni/include/re.h \
+ D:/workspace/android/p2p/jni/include/re_types.h \
+ D:/workspace/android/p2p/jni/include/re_fmt.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/stdio.h \
+ D:/workspace/android/p2p/jni/include/re_mbuf.h \
+ D:/workspace/android/p2p/jni/include/re_list.h \
+ D:/workspace/android/p2p/jni/include/re_sa.h \
+ D:/workspace/android/p2p/jni/include/re_base64.h \
+ D:/workspace/android/p2p/jni/include/re_bfcp.h \
+ D:/workspace/android/p2p/jni/include/re_conf.h \
+ D:/workspace/android/p2p/jni/include/re_crc32.h \
+ D:/workspace/android/p2p/jni/include/re_dns.h \
+ D:/workspace/android/p2p/jni/include/re_hash.h \
+ D:/workspace/android/p2p/jni/include/re_http.h \
+ D:/workspace/android/p2p/jni/include/re_httpauth.h \
+ D:/workspace/android/p2p/jni/include/re_ice.h \
+ D:/workspace/android/p2p/jni/include/re_jbuf.h \
+ D:/workspace/android/p2p/jni/include/re_lock.h \
+ D:/workspace/android/p2p/jni/include/re_main.h \
+ D:/workspace/android/p2p/jni/include/re_md5.h \
+ D:/workspace/android/p2p/jni/include/re_mem.h \
+ D:/workspace/android/p2p/jni/include/re_mod.h \
+ D:/workspace/android/p2p/jni/include/re_mqueue.h \
+ D:/workspace/android/p2p/jni/include/re_net.h \
+ D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/arpa/inet.h \
+ D:/workspace/android/p2p/jni/include/re_rtp.h \
+ D:/workspace/android/p2p/jni/include/re_sdp.h \
+ D:/workspace/android/p2p/jni/include/re_uri.h \
+ D:/workspace/android/p2p/jni/include/re_sip.h \
+ D:/workspace/android/p2p/jni/include/re_sipevent.h \
+ D:/workspace/android/p2p/jni/include/re_sipreg.h \
+ D:/workspace/android/p2p/jni/include/re_sipsess.h \
+ D:/workspace/android/p2p/jni/include/re_stun.h \
+ D:/workspace/android/p2p/jni/include/re_natbd.h \
+ D:/workspace/android/p2p/jni/include/re_sys.h \
+ D:/workspace/android/p2p/jni/include/re_tcp.h \
+ D:/workspace/android/p2p/jni/include/re_telev.h \
+ D:/workspace/android/p2p/jni/include/re_tmr.h \
+ D:/workspace/android/p2p/jni/include/re_tls.h \
+ D:/workspace/android/p2p/jni/include/re_turn.h \
+ D:/workspace/android/p2p/jni/include/re_udp.h \
+ D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
+ D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/vector \
+ D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/map \
+ D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/set \
+ D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath \
+ D:/workspace/android/p2p/jni/include/re_types.h \
+ D:/workspace/android/p2p/jni/include/re_sa.h \
+ D:/workspace/android/p2p/jni/md5.h
+
+D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring:
+
+D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/cerrno:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/unistd.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/types.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/stdint.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/_types.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/_types.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/posix_types.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/stddef.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/compiler.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/posix_types.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/types.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/types.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/kernel.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/select.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/time.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/time.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/signal.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/limits.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/limits.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/limits.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/internal_types.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/limits.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/syslimits.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/page.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/signal.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/siginfo.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/sysconf.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/capability.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/pathconf.h:
+
+D:/workspace/android/p2p/jni/common.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/uio.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/uio.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/pthread.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/time.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sched.h:
+
+D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdlib:
+
+D:/workspace/android/p2p/jni/udt.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/socket.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/socket.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/socket.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/sockios.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/sockios.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/netinet/in.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/endian.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/endian.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/endian.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/in.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/byteorder.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/byteorder/little_endian.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/byteorder/swab.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/byteorder/generic.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/in6.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/ipv6.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/netinet/in6.h:
+
+D:/workspace/android/p2p/jni/include/re.h:
+
+D:/workspace/android/p2p/jni/include/re_types.h:
+
+D:/workspace/android/p2p/jni/include/re_fmt.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/stdio.h:
+
+D:/workspace/android/p2p/jni/include/re_mbuf.h:
+
+D:/workspace/android/p2p/jni/include/re_list.h:
+
+D:/workspace/android/p2p/jni/include/re_sa.h:
+
+D:/workspace/android/p2p/jni/include/re_base64.h:
+
+D:/workspace/android/p2p/jni/include/re_bfcp.h:
+
+D:/workspace/android/p2p/jni/include/re_conf.h:
+
+D:/workspace/android/p2p/jni/include/re_crc32.h:
+
+D:/workspace/android/p2p/jni/include/re_dns.h:
+
+D:/workspace/android/p2p/jni/include/re_hash.h:
+
+D:/workspace/android/p2p/jni/include/re_http.h:
+
+D:/workspace/android/p2p/jni/include/re_httpauth.h:
+
+D:/workspace/android/p2p/jni/include/re_ice.h:
+
+D:/workspace/android/p2p/jni/include/re_jbuf.h:
+
+D:/workspace/android/p2p/jni/include/re_lock.h:
+
+D:/workspace/android/p2p/jni/include/re_main.h:
+
+D:/workspace/android/p2p/jni/include/re_md5.h:
+
+D:/workspace/android/p2p/jni/include/re_mem.h:
+
+D:/workspace/android/p2p/jni/include/re_mod.h:
+
+D:/workspace/android/p2p/jni/include/re_mqueue.h:
+
+D:/workspace/android/p2p/jni/include/re_net.h:
+
+D:/Program/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/arpa/inet.h:
+
+D:/workspace/android/p2p/jni/include/re_rtp.h:
+
+D:/workspace/android/p2p/jni/include/re_sdp.h:
+
+D:/workspace/android/p2p/jni/include/re_uri.h:
+
+D:/workspace/android/p2p/jni/include/re_sip.h:
+
+D:/workspace/android/p2p/jni/include/re_sipevent.h:
+
+D:/workspace/android/p2p/jni/include/re_sipreg.h:
+
+D:/workspace/android/p2p/jni/include/re_sipsess.h:
+
+D:/workspace/android/p2p/jni/include/re_stun.h:
+
+D:/workspace/android/p2p/jni/include/re_natbd.h:
+
+D:/workspace/android/p2p/jni/include/re_sys.h:
+
+D:/workspace/android/p2p/jni/include/re_tcp.h:
+
+D:/workspace/android/p2p/jni/include/re_telev.h:
+
+D:/workspace/android/p2p/jni/include/re_tmr.h:
+
+D:/workspace/android/p2p/jni/include/re_tls.h:
+
+D:/workspace/android/p2p/jni/include/re_turn.h:
+
+D:/workspace/android/p2p/jni/include/re_udp.h:
+
+D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
+
+D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/vector:
+
+D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/map:
+
+D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/set:
+
+D:/Program/android-ndk-r9c/sources/cxx-stl/gnu-libstdc++/4.6/include/cmath:
+
+D:/workspace/android/p2p/jni/include/re_types.h:
+
+D:/workspace/android/p2p/jni/include/re_sa.h:
+
+D:/workspace/android/p2p/jni/md5.h:
